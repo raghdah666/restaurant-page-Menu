@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specialmenu>
+    <item>
+        <specials>Asian</specials>
+        <name>sweet sour chicin</name>
+        <type>Asian</type>
+        <img>assets/img/specials-1.png</img>
+        <description>Onion , olive oil ...</description>
+    </item>   
+     <item>
+        <specials>spaghetti</specials>
+        <name>Italian meal</name>        
+        <type>spaghetti</type>
+        <img>assets/img/specials-3.png</img>
+        <description>spaghetti ,sous  ...</description>
+    </item>   
+     <item>
+        <specials>Deserts</specials>
+        <name>fruit salad</name>
+        <type>Traditional</type>        
+        <img>assets/img/specials-2.png</img>
+        <description>creama , cake  ...</description>
+    </item>
+   </specialmenu>

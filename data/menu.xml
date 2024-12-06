@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <category>Main-Meal</category>
+        <name>Mosakhan</name>
+        <price>₪ 55</price>
+        <description>Onion , olive oil ...</description>
+    </item>
+    <item>
+        <category>Main-Meal</category>
+        <name>انتريكوت</name>
+        <price>₪ 130</price>
+        <description>Valeriana, cicoria e lattuga</description>
+    </item>
+    <item>
+        <category>Main-Meal</category>
+        <name>مشاوي مشكل</name>
+        <price>₪ 90</price>
+        <description></description>
+    </item>
+    <item>
+        <category>salad</category>
+        <name>يونانية</name>
+        <price>₪35</price>
+        <description>Tris di formaggi di capra</description>
+    </item>
+    <item>
+        <category>salad</category>
+        <name>سيزر</name>
+        <price>₪32</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>salad</category>
+        <name>سلطة جونايدن</name>
+        <price>₪35</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Drinks</category>
+        <name>milksake</name>
+        <price>₪20</price>
+        <description></description>
+    </item>    <item>
+        <category>Drinks</category>
+        <name>ice tea</name>
+        <price>₪16</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Drinks</category>
+        <name>mango</name>
+        <price>Hot Caramel</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Drinks</category>
+        <name>mango</name>
+        <price>₪20</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Hokka</category>
+        <name>mango</name>
+        <price>₪20</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Hokka</category>
+        <name>lemon</name>
+        <price>₪25</price>
+        <description></description>
+    </item>   
+     <item>
+        <category>Hokka</category>
+        <name>Ment</name>
+        <price>
+₪25</price>
+        <description></description>
+    </item>    
+    <item>
+        <category>Hokka</category>
+        <name>Grapes</name>
+        <price>
+₪25</price>
+        <description></description>
+    </item>
+</menu> 
