@@ -6,7 +6,7 @@ Developed by Raghdah Zaki in 2024. Made with BOOTSTRAP5
 
 ## 1- Home Page
 
-<img src="https://github.com/user-attachments/assets/8a59c488-20e1-497b-8bd3-6225f63c2c1c" alt="Home Page" width="300"/>
+<img src="https://github.com/user-attachments/assets/4587d365-b37b-4a18-ba08-59e8bceae702" alt="Screenshot" width="300"/>
 
 (specials section data)  
 edit data/specials.xml
