@@ -1262,7 +1262,7 @@ section,
 }
 
 .specials .nav-link.active {
-  color: var(--contrast-color);
+  color: var(--heading-color);
   background-color: var(--accent-color);
 }
 
@@ -1290,9 +1290,13 @@ section,
     padding: 15px;
   }
 
+
   .specials .nav-link.active {
-    color: var(--accent-color);
+    color: var(--nav-color);
     background: var(--accent-color);
+  }
+  .text-h{
+    text-align: center !important;
   }
 }
 
