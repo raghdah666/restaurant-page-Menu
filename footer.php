@@ -13,15 +13,15 @@
     <div class="row gy-4">
 
 
-      <div class="col-lg-4 col-md-3 footer-links">
+      <div class="col-lg-4 col-md-4 footer-links">
       <p class="mt-3"><strong>Address: <?= $client['address'] ?></strong></p>
       </div>
 
-      <div class="col-lg-4 col-md-3 footer-links">
+      <div class="col-lg-4 col-md-4 footer-links">
       <p class="mt-3"><strong>Phone: </strong> <a href="tel:<?= $client['phone'] ?>" class="text-white"><span> <?= $client['phone'] ?></span></a></p>
       </div>
 
-      <div class="col-lg-4 col-md-12 footer-newsletter">
+      <div class="col-lg-4 col-md-4 footer-newsletter">
       <p class="mt-3"><strong>Email: </strong><a href="mailto:<?= $client['email'] ?>" class="text-white"><span> <?= $client['email'] ?></span></a></p>
 
       </div>
