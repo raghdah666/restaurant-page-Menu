@@ -1,6 +1,6 @@
 # Restaurant home page & Menu
 
-Web application to display restaurant info + menu
+Web application for restaurant to display info + menu
 
 Developed by Raghdah Zaki in 2024. Made with BOOTSTRAP5
 
