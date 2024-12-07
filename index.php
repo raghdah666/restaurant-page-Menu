@@ -7,19 +7,18 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 d-flex flex-column align-items-center align-items-lg-start">
+          <div class="col-lg-8 d-flex flex-column align-items-center align-items-lg-start  text-h">
             <h2 data-aos="fade-up" data-aos-delay="100">Welcome to <span><?= $client['name'] ?></span></h2>
-            <!-- <p data-aos="fade-up" data-aos-delay="200">Resturant & Coffe</p> -->
+            <p data-aos="fade-up" data-aos-delay="200">Delivering great food for more than 18 years!</p>
             <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
               <a href="menu.php" class="cta-btn">Our Menu</a>
               <a href="location.php" class="cta-btn"><i class="bi bi-geo-alt flex-shrink-0"></i>Location</a>
             </div>
           </div>
           <div class="col-lg-4 d-flex align-items-center justify-content-center mt-5 mt-lg-0">
-            <a href="https://wa.me/<?= $client['phone'] ?>?text=Hello%20there!" target="_blank" class="pulsating-whatsapp-btn">
-  <i class="bi bi-whatsapp"></i>
-</a>
-
+          <a href="https://wa.me/<?= $client['phone'] ?>?text=Hello%20there!" target="_blank" class="pulsating-whatsapp-btn">
+              <i class="bi bi-whatsapp"></i>
+            </a>
           </div>
         </div>
       </div>
@@ -84,6 +83,9 @@
 
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> bfa5267f773266fcef980273033bf120787e5428
 
     <?php include 'footer.php';?>
