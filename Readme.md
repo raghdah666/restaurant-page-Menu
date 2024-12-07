@@ -6,14 +6,14 @@ Developed by Raghdah Zaki in 2024. Made with BOOTSTRAP5
 
 ## 1- Home Page
 
-<img src="https://github.com/user-attachments/assets/4587d365-b37b-4a18-ba08-59e8bceae702" alt="Screenshot" width="300"/>
+<img src="https://github.com/user-attachments/assets/5c5ad1a2-7682-477b-94d9-d46bccb40324" alt="Screenshot 2" width="250"/>
 
 (specials section data)  
 edit data/specials.xml
 
 ## 2- Menu Page
 
-<img src="https://github.com/user-attachments/assets/d20098d0-3ec4-4f4e-9ab1-65d22fde4f47" alt="Menu Page" width="300"/>
+<img src="https://github.com/user-attachments/assets/adab350c-5508-46fe-97d2-f2e5284b58c0" alt="Menu Page 2" width="250"/>
 
 (Menu section data)  
 edit data/menu.xml
