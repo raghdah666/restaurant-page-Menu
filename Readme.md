@@ -1,21 +1,21 @@
 # Restaurant home page & Menu
 
-A simple web application to display restaurant info + menu
+Web application to display restaurant info + menu
 
 Developed by Raghdah Zaki in 2024. Made with BOOTSTRAP5
 
 ## 1- Home Page
 
-<img src="https://github.com/user-attachments/assets/135a170c-3129-48b5-8d0f-13a9e2f221c0" alt="Home Page Screenshot 2" width="250"/>
+<img src="https://github.com/user-attachments/assets/0aa25617-9432-4060-b0a9-f88af2baea72" alt="Home Page Screenshot 2" width="300"/>
 
 (specials section data)  
-edit data/specials.xml
+edit `data/specials.xml`
 
 ## 2- Menu Page
 
-<img src="https://github.com/user-attachments/assets/adab350c-5508-46fe-97d2-f2e5284b58c0" alt="Menu Page Screenshot" width="250"/>
+<img src="https://github.com/user-attachments/assets/72de44b3-3b45-4fae-8ba2-63ceee880c1e" alt="Menu Page Screenshot 2" width="300"/>
 
 (Menu section data)  
-edit data/menu.xml
+edit `data/menu.xml`
 
-edit header.php: change "ENVIRONMENT" from 'development' to 'production' when you're ready!
+Edit `header.php`: change `"ENVIRONMENT"` from `'development'` to `'production'` when you're ready!
