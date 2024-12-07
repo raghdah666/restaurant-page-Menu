@@ -151,7 +151,7 @@ foreach ($specials as $elem) {
             <li><a href="#hero" class="active">Home<br></a></li>
             <li><a href="menu.php">Menu</a></li>
             <li><a href="location.php">Location</a></li>
-
+             </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
 
